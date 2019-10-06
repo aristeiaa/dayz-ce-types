@@ -98,10 +98,10 @@
     <value name="Tier4"/>
 </type>
 <type name="AmmoBox_338_20Rnd">
-    <nominal>40</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -247,10 +247,10 @@
     <value name="Tier4"/>
 </type>
 <type name="Ammo_338">
-    <nominal>60</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>40</min>
+    <min>4</min>
     <quantmin>20</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -260,10 +260,10 @@
     <value name="Tier4"/>
 </type>
 <type name="Ammo_408">
-    <nominal>60</nominal>
+    <nominal>15</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>40</min>
+    <min>2</min>
     <quantmin>20</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -273,10 +273,10 @@
     <value name="Tier4"/>
 </type>
 <type name="Ammo_127x99">
-    <nominal>60</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>40</min>
+    <min>1</min>
     <quantmin>20</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>

@@ -249,8 +249,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>7200</lifetime>
-    <min>30</min>
-    <nominal>100</nominal>
+    <min>5</min>
+    <nominal>20</nominal>
     <quantmax>80</quantmax>
     <quantmin>20</quantmin>
     <restock>0</restock>
@@ -261,8 +261,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>7200</lifetime>
-    <min>20</min>
-    <nominal>70</nominal>
+    <min>3</min>
+    <nominal>15</nominal>
     <quantmax>80</quantmax>
     <quantmin>20</quantmin>
     <restock>0</restock>
@@ -459,6 +459,8 @@
     <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
     <usage name="Police" />
 </type>
 <type name="AmmoBox_9x39_20Rnd">
