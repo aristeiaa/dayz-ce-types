@@ -1,0 +1,240 @@
+<type name="Animal_BosTaurus_Brown">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_BosTaurus_Spotted">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_BosTaurus_White">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_BosTaurusF_Brown">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_BosTaurusF_Spotted">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_BosTaurusF_White">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CanisLupus_Grey">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CanisLupus_White">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CapraHircus_Black">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CapraHircus_Brown">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CapraHircus_White">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CapraHircusF">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CapreolusCapreolus">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CapreolusCapreolusF">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CervusElaphus">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_CervusElaphusF">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_GallusGallusDomesticus">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_GallusGallusDomesticusF_Brown">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_GallusGallusDomesticusF_Spotted">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_GallusGallusDomesticusF_White">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_OvisAries">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_OvisAriesF">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_SusDomesticus">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Animal_SusScrofa">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>1800</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
+    <restock>0</restock>
+</type>

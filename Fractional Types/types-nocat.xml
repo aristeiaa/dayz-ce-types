@@ -1,0 +1,118 @@
+﻿<type name="AntiPestsSpray">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>1800</lifetime>
+</type>
+<type name="Bark_Birch">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>1800</lifetime>
+</type>
+<type name="Bark_Oak">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>1800</lifetime>
+</type>
+<type name="Bone">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>3600</lifetime>
+</type>
+<type name="BurlapSackCover">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>5600</lifetime>
+</type>
+<type name="BurlapStrip">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>7200</lifetime>
+</type>
+<type name="ChernarusMap_Open">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>180</lifetime>
+</type>
+<type name="CowPelt">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>10800</lifetime>
+</type>
+<type name="CowSteakMeat">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>3600</lifetime>
+</type>
+<type name="DeerPelt">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>10800</lifetime>
+</type>
+<type name="Fireplace">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>7200</lifetime>
+</type>
+<type name="FireplaceIndoor">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>1800</lifetime>
+</type>
+<type name="Firewood">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>7200</lifetime>
+</type>
+<type name="GardenPlot">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>21600</lifetime>
+</type>
+<type name="GoatPelt">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>10800</lifetime>
+</type>
+<type name="LongWoodenStick">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>1800</lifetime>
+</type>
+<type name="MouthRag">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>2700</lifetime>
+</type>
+<type name="Paper">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>7200</lifetime>
+</type>
+<type name="SheepPelt">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>10800</lifetime>
+</type>
+<type name="SmallStone">
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <lifetime>7200</lifetime>
+    <min>0</min>
+    <nominal>0</nominal>
+    <quantmax>15</quantmax>
+    <quantmin>15</quantmin>
+    <restock>0</restock>
+</type>
+<type name="Spear">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>7200</lifetime>
+</type>
+<type name="Stone">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>7200</lifetime>
+</type>
+<type name="StoneKnife">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>5600</lifetime>
+</type>
+<type name="TannedLeather">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>14400</lifetime>
+</type>
+<type name="Torch">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>1800</lifetime>
+</type>
+<type name="UndergroundStash">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>3888000</lifetime>
+</type>
+<type name="WildboarPelt">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>10800</lifetime>
+</type>
+<type name="WolfPelt">
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <lifetime>10800</lifetime>
+</type>
