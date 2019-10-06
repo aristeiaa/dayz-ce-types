@@ -1,4 +1,4 @@
-  <type name="ZmbF_BlueCollarFat_Blue">
+<type name="ZmbF_BlueCollarFat_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -7,8 +7,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_BlueCollarFat_Green">
+</type>
+<type name="ZmbF_BlueCollarFat_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -17,8 +17,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_BlueCollarFat_Red">
+</type>
+<type name="ZmbF_BlueCollarFat_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -27,8 +27,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_BlueCollarFat_White">
+</type>
+<type name="ZmbF_BlueCollarFat_White">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -37,8 +37,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_CitizenANormal_Beige">
+</type>
+<type name="ZmbF_CitizenANormal_Beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -47,8 +47,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_CitizenANormal_Blue">
+</type>
+<type name="ZmbF_CitizenANormal_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -57,8 +57,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_CitizenANormal_Brown">
+</type>
+<type name="ZmbF_CitizenANormal_Brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -67,8 +67,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_CitizenBSkinny">
+</type>
+<type name="ZmbF_CitizenBSkinny">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -77,8 +77,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_Clerk_Normal_Blue">
+</type>
+<type name="ZmbF_Clerk_Normal_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -87,8 +87,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_Clerk_Normal_Green">
+</type>
+<type name="ZmbF_Clerk_Normal_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -97,8 +97,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_Clerk_Normal_Red">
+</type>
+<type name="ZmbF_Clerk_Normal_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -107,8 +107,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_Clerk_Normal_White">
+</type>
+<type name="ZmbF_Clerk_Normal_White">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -117,8 +117,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_DoctorSkinny">
+</type>
+<type name="ZmbF_DoctorSkinny">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -127,8 +127,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_HikerSkinny_Blue">
+</type>
+<type name="ZmbF_HikerSkinny_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -137,8 +137,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_HikerSkinny_Green">
+</type>
+<type name="ZmbF_HikerSkinny_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -147,8 +147,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_HikerSkinny_Grey">
+</type>
+<type name="ZmbF_HikerSkinny_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -157,8 +157,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_HikerSkinny_Red">
+</type>
+<type name="ZmbF_HikerSkinny_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -167,8 +167,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_JoggerSkinny_Blue">
+</type>
+<type name="ZmbF_JoggerSkinny_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -177,8 +177,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_JoggerSkinny_Brown">
+</type>
+<type name="ZmbF_JoggerSkinny_Brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -187,8 +187,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_JoggerSkinny_Green">
+</type>
+<type name="ZmbF_JoggerSkinny_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -197,8 +197,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_JoggerSkinny_Red">
+</type>
+<type name="ZmbF_JoggerSkinny_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -207,8 +207,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_JournalistNormal_Blue">
+</type>
+<type name="ZmbF_JournalistNormal_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -217,8 +217,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_JournalistNormal_Green">
+</type>
+<type name="ZmbF_JournalistNormal_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -227,8 +227,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_JournalistNormal_Red">
+</type>
+<type name="ZmbF_JournalistNormal_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -237,8 +237,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_JournalistNormal_White">
+</type>
+<type name="ZmbF_JournalistNormal_White">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -247,8 +247,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_MechanicNormal_Beige">
+</type>
+<type name="ZmbF_MechanicNormal_Beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -257,8 +257,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_MechanicNormal_Green">
+</type>
+<type name="ZmbF_MechanicNormal_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -267,8 +267,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_MechanicNormal_Grey">
+</type>
+<type name="ZmbF_MechanicNormal_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -277,8 +277,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_MechanicNormal_Orange">
+</type>
+<type name="ZmbF_MechanicNormal_Orange">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -287,8 +287,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_MilkMaidOld_Beige">
+</type>
+<type name="ZmbF_MilkMaidOld_Beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -297,8 +297,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_MilkMaidOld_Black">
+</type>
+<type name="ZmbF_MilkMaidOld_Black">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -307,8 +307,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_MilkMaidOld_Green">
+</type>
+<type name="ZmbF_MilkMaidOld_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -317,8 +317,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_MilkMaidOld_Grey">
+</type>
+<type name="ZmbF_MilkMaidOld_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -327,8 +327,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_NurseFat">
+</type>
+<type name="ZmbF_NurseFat">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -337,8 +337,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ParamedicNormal_Blue">
+</type>
+<type name="ZmbF_ParamedicNormal_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -347,8 +347,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ParamedicNormal_Green">
+</type>
+<type name="ZmbF_ParamedicNormal_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -357,8 +357,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ParamedicNormal_Red">
+</type>
+<type name="ZmbF_ParamedicNormal_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -367,8 +367,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_PatientOld">
+</type>
+<type name="ZmbF_PatientOld">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -377,8 +377,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_PoliceWomanNormal">
+</type>
+<type name="ZmbF_PoliceWomanNormal">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -387,8 +387,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_beige">
+</type>
+<type name="ZmbF_ShortSkirt_beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -397,8 +397,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_black">
+</type>
+<type name="ZmbF_ShortSkirt_black">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -407,8 +407,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_brown">
+</type>
+<type name="ZmbF_ShortSkirt_brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -417,8 +417,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_checks">
+</type>
+<type name="ZmbF_ShortSkirt_checks">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -427,8 +427,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_green">
+</type>
+<type name="ZmbF_ShortSkirt_green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -437,8 +437,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_grey">
+</type>
+<type name="ZmbF_ShortSkirt_grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -447,8 +447,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_red">
+</type>
+<type name="ZmbF_ShortSkirt_red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -457,8 +457,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_stripes">
+</type>
+<type name="ZmbF_ShortSkirt_stripes">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -467,8 +467,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_white">
+</type>
+<type name="ZmbF_ShortSkirt_white">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -477,8 +477,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_ShortSkirt_yellow">
+</type>
+<type name="ZmbF_ShortSkirt_yellow">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -487,8 +487,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_SkaterYoung_Brown">
+</type>
+<type name="ZmbF_SkaterYoung_Brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -497,8 +497,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_SkaterYoung_Striped">
+</type>
+<type name="ZmbF_SkaterYoung_Striped">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -507,8 +507,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_SkaterYoung_Violet">
+</type>
+<type name="ZmbF_SkaterYoung_Violet">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -517,8 +517,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_SurvivorNormal_Blue">
+</type>
+<type name="ZmbF_SurvivorNormal_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -527,8 +527,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_SurvivorNormal_Orange">
+</type>
+<type name="ZmbF_SurvivorNormal_Orange">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -537,8 +537,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_SurvivorNormal_Red">
+</type>
+<type name="ZmbF_SurvivorNormal_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -547,8 +547,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_SurvivorNormal_White">
+</type>
+<type name="ZmbF_SurvivorNormal_White">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -557,8 +557,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_VillagerOld_Blue">
+</type>
+<type name="ZmbF_VillagerOld_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -567,8 +567,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_VillagerOld_Green">
+</type>
+<type name="ZmbF_VillagerOld_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -577,8 +577,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_VillagerOld_Red">
+</type>
+<type name="ZmbF_VillagerOld_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -587,8 +587,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbF_VillagerOld_White">
+</type>
+<type name="ZmbF_VillagerOld_White">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -597,8 +597,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CitizenASkinny_Blue">
+</type>
+<type name="ZmbM_CitizenASkinny_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -607,8 +607,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CitizenASkinny_Brown">
+</type>
+<type name="ZmbM_CitizenASkinny_Brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -617,8 +617,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CitizenASkinny_Grey">
+</type>
+<type name="ZmbM_CitizenASkinny_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -627,8 +627,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CitizenASkinny_Red">
+</type>
+<type name="ZmbM_CitizenASkinny_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -637,8 +637,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CitizenBFat_Blue">
+</type>
+<type name="ZmbM_CitizenBFat_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -647,8 +647,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CitizenBFat_Green">
+</type>
+<type name="ZmbM_CitizenBFat_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -657,8 +657,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CitizenBFat_Red">
+</type>
+<type name="ZmbM_CitizenBFat_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -667,8 +667,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ClerkFat_Brown">
+</type>
+<type name="ZmbM_ClerkFat_Brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -677,8 +677,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ClerkFat_Grey">
+</type>
+<type name="ZmbM_ClerkFat_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -687,8 +687,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ClerkFat_Khaki">
+</type>
+<type name="ZmbM_ClerkFat_Khaki">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -697,8 +697,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ClerkFat_White">
+</type>
+<type name="ZmbM_ClerkFat_White">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -707,8 +707,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CommercialPilotOld_Blue">
+</type>
+<type name="ZmbM_CommercialPilotOld_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -717,8 +717,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CommercialPilotOld_Brown">
+</type>
+<type name="ZmbM_CommercialPilotOld_Brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -727,8 +727,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CommercialPilotOld_Grey">
+</type>
+<type name="ZmbM_CommercialPilotOld_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -737,8 +737,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_CommercialPilotOld_Olive">
+</type>
+<type name="ZmbM_CommercialPilotOld_Olive">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -747,8 +747,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ConstrWorkerNormal_Beige">
+</type>
+<type name="ZmbM_ConstrWorkerNormal_Beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -757,8 +757,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ConstrWorkerNormal_Black">
+</type>
+<type name="ZmbM_ConstrWorkerNormal_Black">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -767,8 +767,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ConstrWorkerNormal_Green">
+</type>
+<type name="ZmbM_ConstrWorkerNormal_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -777,8 +777,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ConstrWorkerNormal_Grey">
+</type>
+<type name="ZmbM_ConstrWorkerNormal_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -787,8 +787,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_DoctorFat">
+</type>
+<type name="ZmbM_DoctorFat">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -797,8 +797,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FarmerFat_Beige">
+</type>
+<type name="ZmbM_FarmerFat_Beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -807,8 +807,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FarmerFat_Blue">
+</type>
+<type name="ZmbM_FarmerFat_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -817,8 +817,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FarmerFat_Brown">
+</type>
+<type name="ZmbM_FarmerFat_Brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -827,8 +827,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FarmerFat_Green">
+</type>
+<type name="ZmbM_FarmerFat_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -837,8 +837,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FirefighterNormal">
+</type>
+<type name="ZmbM_FirefighterNormal">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -847,8 +847,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FishermanOld_Blue">
+</type>
+<type name="ZmbM_FishermanOld_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -857,8 +857,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FishermanOld_Green">
+</type>
+<type name="ZmbM_FishermanOld_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -867,8 +867,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FishermanOld_Grey">
+</type>
+<type name="ZmbM_FishermanOld_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -877,8 +877,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_FishermanOld_Red">
+</type>
+<type name="ZmbM_FishermanOld_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -887,8 +887,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HandymanNormal_Beige">
+</type>
+<type name="ZmbM_HandymanNormal_Beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -897,8 +897,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HandymanNormal_Blue">
+</type>
+<type name="ZmbM_HandymanNormal_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -907,8 +907,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HandymanNormal_Green">
+</type>
+<type name="ZmbM_HandymanNormal_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -917,8 +917,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HandymanNormal_Grey">
+</type>
+<type name="ZmbM_HandymanNormal_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -927,8 +927,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HandymanNormal_White">
+</type>
+<type name="ZmbM_HandymanNormal_White">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -937,8 +937,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HeavyIndustryWorker">
+</type>
+<type name="ZmbM_HeavyIndustryWorker">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -947,8 +947,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HermitSkinny_Beige">
+</type>
+<type name="ZmbM_HermitSkinny_Beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -957,8 +957,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HermitSkinny_Black">
+</type>
+<type name="ZmbM_HermitSkinny_Black">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -967,8 +967,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HermitSkinny_Green">
+</type>
+<type name="ZmbM_HermitSkinny_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -977,8 +977,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HermitSkinny_Red">
+</type>
+<type name="ZmbM_HermitSkinny_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -987,8 +987,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HikerSkinny_Blue">
+</type>
+<type name="ZmbM_HikerSkinny_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -997,8 +997,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HikerSkinny_Green">
+</type>
+<type name="ZmbM_HikerSkinny_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1007,8 +1007,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HikerSkinny_Yellow">
+</type>
+<type name="ZmbM_HikerSkinny_Yellow">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1017,8 +1017,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HunterOld_Autumn">
+</type>
+<type name="ZmbM_HunterOld_Autumn">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1027,8 +1027,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HunterOld_Spring">
+</type>
+<type name="ZmbM_HunterOld_Spring">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1037,8 +1037,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HunterOld_Summer">
+</type>
+<type name="ZmbM_HunterOld_Summer">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1047,8 +1047,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_HunterOld_Winter">
+</type>
+<type name="ZmbM_HunterOld_Winter">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1057,8 +1057,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_beige">
+</type>
+<type name="ZmbM_Jacket_beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1067,8 +1067,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_black">
+</type>
+<type name="ZmbM_Jacket_black">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1077,8 +1077,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_blue">
+</type>
+<type name="ZmbM_Jacket_blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1087,8 +1087,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_bluechecks">
+</type>
+<type name="ZmbM_Jacket_bluechecks">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1097,8 +1097,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_brown">
+</type>
+<type name="ZmbM_Jacket_brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1107,8 +1107,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_greenchecks">
+</type>
+<type name="ZmbM_Jacket_greenchecks">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1117,8 +1117,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_grey">
+</type>
+<type name="ZmbM_Jacket_grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1127,8 +1127,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_khaki">
+</type>
+<type name="ZmbM_Jacket_khaki">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1137,8 +1137,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_magenta">
+</type>
+<type name="ZmbM_Jacket_magenta">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1147,8 +1147,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_Jacket_stripes">
+</type>
+<type name="ZmbM_Jacket_stripes">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1157,8 +1157,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_JoggerSkinny_Blue">
+</type>
+<type name="ZmbM_JoggerSkinny_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1167,8 +1167,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_JoggerSkinny_Green">
+</type>
+<type name="ZmbM_JoggerSkinny_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1177,8 +1177,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_JoggerSkinny_Red">
+</type>
+<type name="ZmbM_JoggerSkinny_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1187,8 +1187,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_JournalistSkinny">
+</type>
+<type name="ZmbM_JournalistSkinny">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1197,8 +1197,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_MechanicSkinny_Blue">
+</type>
+<type name="ZmbM_MechanicSkinny_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1207,8 +1207,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_MechanicSkinny_Green">
+</type>
+<type name="ZmbM_MechanicSkinny_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1217,8 +1217,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_MechanicSkinny_Grey">
+</type>
+<type name="ZmbM_MechanicSkinny_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1227,8 +1227,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_MechanicSkinny_Red">
+</type>
+<type name="ZmbM_MechanicSkinny_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1237,8 +1237,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_MotobikerFat_Beige">
+</type>
+<type name="ZmbM_MotobikerFat_Beige">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1247,8 +1247,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_MotobikerFat_Black">
+</type>
+<type name="ZmbM_MotobikerFat_Black">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1257,8 +1257,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_MotobikerFat_Blue">
+</type>
+<type name="ZmbM_MotobikerFat_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1267,8 +1267,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_OffshoreWorker_Green">
+</type>
+<type name="ZmbM_OffshoreWorker_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1277,8 +1277,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_OffshoreWorker_Orange">
+</type>
+<type name="ZmbM_OffshoreWorker_Orange">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1287,8 +1287,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_OffshoreWorker_Red">
+</type>
+<type name="ZmbM_OffshoreWorker_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1297,8 +1297,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_OffshoreWorker_Yellow">
+</type>
+<type name="ZmbM_OffshoreWorker_Yellow">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1307,8 +1307,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ParamedicNormal_Black">
+</type>
+<type name="ZmbM_ParamedicNormal_Black">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1317,8 +1317,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ParamedicNormal_Blue">
+</type>
+<type name="ZmbM_ParamedicNormal_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1327,8 +1327,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ParamedicNormal_Green">
+</type>
+<type name="ZmbM_ParamedicNormal_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1337,8 +1337,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_ParamedicNormal_Red">
+</type>
+<type name="ZmbM_ParamedicNormal_Red">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1347,8 +1347,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_PatientSkinny">
+</type>
+<type name="ZmbM_PatientSkinny">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1357,8 +1357,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_PatrolNormal_Autumn">
+</type>
+<type name="ZmbM_PatrolNormal_Autumn">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1367,8 +1367,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_PatrolNormal_Flat">
+</type>
+<type name="ZmbM_PatrolNormal_Flat">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1377,8 +1377,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_PatrolNormal_PautRev">
+</type>
+<type name="ZmbM_PatrolNormal_PautRev">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1387,8 +1387,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_PatrolNormal_Summer">
+</type>
+<type name="ZmbM_PatrolNormal_Summer">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1397,8 +1397,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_PolicemanFat">
+</type>
+<type name="ZmbM_PolicemanFat">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1407,8 +1407,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_PolicemanSpecForce">
+</type>
+<type name="ZmbM_PolicemanSpecForce">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1417,8 +1417,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_priestPopSkinny">
+</type>
+<type name="ZmbM_priestPopSkinny">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1427,8 +1427,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_PrisonerSkinny">
+</type>
+<type name="ZmbM_PrisonerSkinny">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1437,8 +1437,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_SkaterYoung_Blue">
+</type>
+<type name="ZmbM_SkaterYoung_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1447,8 +1447,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_SkaterYoung_Brown">
+</type>
+<type name="ZmbM_SkaterYoung_Brown">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1457,8 +1457,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_SkaterYoung_Green">
+</type>
+<type name="ZmbM_SkaterYoung_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1467,8 +1467,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_SkaterYoung_Grey">
+</type>
+<type name="ZmbM_SkaterYoung_Grey">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1477,8 +1477,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_SoldierNormal">
+</type>
+<type name="ZmbM_SoldierNormal">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1487,8 +1487,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_usSoldier_normal_Desert">
+</type>
+<type name="ZmbM_usSoldier_normal_Desert">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1497,8 +1497,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_usSoldier_normal_Woodland">
+</type>
+<type name="ZmbM_usSoldier_normal_Woodland">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1507,8 +1507,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_VillagerOld_Blue">
+</type>
+<type name="ZmbM_VillagerOld_Blue">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1517,8 +1517,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_VillagerOld_Green">
+</type>
+<type name="ZmbM_VillagerOld_Green">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1527,8 +1527,8 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
-  <type name="ZmbM_VillagerOld_White">
+</type>
+<type name="ZmbM_VillagerOld_White">
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>1800</lifetime>
@@ -1537,4 +1537,4 @@
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
-  </type>
+</type>
