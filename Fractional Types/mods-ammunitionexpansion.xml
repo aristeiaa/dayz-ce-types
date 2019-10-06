@@ -111,10 +111,10 @@
     <value name="Tier4"/>
 </type>
 <type name="AmmoBox_408_20Rnd">
-    <nominal>40</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -124,10 +124,10 @@
     <value name="Tier4"/>
 </type>
 <type name="AmmoBox_127x99_20Rnd">
-    <nominal>40</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -260,7 +260,7 @@
     <value name="Tier4"/>
 </type>
 <type name="Ammo_408">
-    <nominal>15</nominal>
+    <nominal>4</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -273,12 +273,12 @@
     <value name="Tier4"/>
 </type>
 <type name="Ammo_127x99">
-    <nominal>10</nominal>
+    <nominal>4</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>3</quantmin>
-    <quantmax>20</quantmax>
+    <quantmax>10</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
