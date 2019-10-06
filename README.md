@@ -18,3 +18,10 @@ There may well be errors in this early commit. These are NOT the default loot am
 * Stop the server.
 * (At your own risk) Wipe the current economy by deleting the contents of $DAYZSERVERROOT\mpmissions\dayzOffline.chernarusplus\storage_1\data\.
 * Start the server.
+
+## Mods
+If you have mods that include new types then you can make use of the Fractional Types files starting with 'mods-'.
+
+* These will only be included if you run the typesmodsmerge.bat file.
+* You can create as many mods- files as you like and use them types distinct from any vanilla types.
+* Some examples have been included - these are not complete and you use them at your own risk.
