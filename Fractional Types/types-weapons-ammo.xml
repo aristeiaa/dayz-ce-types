@@ -468,20 +468,23 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>7200</lifetime>
-    <min>15</min>
-    <nominal>80</nominal>
+    <min>5</min>
+    <nominal>20</nominal>
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
 </type>
 <type name="AmmoBox_9x39AP_20Rnd">
     <category name="weapons" />
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>7200</lifetime>
-    <min>5</min>
-    <nominal>40</nominal>
+    <min>2</min>
+    <nominal>10</nominal>
     <quantmax>-1</quantmax>
     <quantmin>-1</quantmin>
     <restock>0</restock>
