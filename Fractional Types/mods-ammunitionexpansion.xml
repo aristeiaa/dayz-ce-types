@@ -142,8 +142,8 @@
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <min>50</min>
-    <quantmin>25</quantmin>
-    <quantmax>90</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -157,8 +157,8 @@
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <min>50</min>
-    <quantmin>25</quantmin>
-    <quantmax>90</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -172,8 +172,8 @@
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <min>50</min>
-    <quantmin>25</quantmin>
-    <quantmax>90</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -185,8 +185,8 @@
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <min>50</min>
-    <quantmin>25</quantmin>
-    <quantmax>90</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -200,8 +200,8 @@
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>60</min>
-    <quantmin>40</quantmin>
-    <quantmax>90</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -212,8 +212,8 @@
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>60</min>
-    <quantmin>40</quantmin>
-    <quantmax>90</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -224,8 +224,8 @@
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>40</min>
-    <quantmin>10</quantmin>
-    <quantmax>80</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -238,8 +238,8 @@
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>40</min>
-    <quantmin>20</quantmin>
-    <quantmax>80</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -251,8 +251,8 @@
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>4</min>
-    <quantmin>20</quantmin>
-    <quantmax>80</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -264,8 +264,8 @@
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>2</min>
-    <quantmin>20</quantmin>
-    <quantmax>80</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
@@ -277,8 +277,8 @@
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>1</min>
-    <quantmin>20</quantmin>
-    <quantmax>80</quantmax>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>

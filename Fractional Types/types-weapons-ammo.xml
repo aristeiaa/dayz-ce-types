@@ -5,8 +5,8 @@
     <lifetime>7200</lifetime>
     <min>20</min>
     <nominal>40</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Farm" />
     <usage name="Hunting" />
@@ -24,8 +24,8 @@
     <lifetime>7200</lifetime>
     <min>20</min>
     <nominal>40</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Farm" />
     <usage name="Hunting" />
@@ -43,8 +43,8 @@
     <lifetime>7200</lifetime>
     <min>50</min>
     <nominal>100</nominal>
-    <quantmax>90</quantmax>
-    <quantmin>30</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Town" />
@@ -57,8 +57,8 @@
     <lifetime>7200</lifetime>
     <min>50</min>
     <nominal>100</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Farm" />
@@ -72,8 +72,8 @@
     <lifetime>10800</lifetime>
     <min>20</min>
     <nominal>80</nominal>
-    <quantmax>50</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Hunting" />
@@ -87,8 +87,8 @@
     <lifetime>7200</lifetime>
     <min>50</min>
     <nominal>100</nominal>
-    <quantmax>90</quantmax>
-    <quantmin>35</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Police" />
     <usage name="Town" />
@@ -101,8 +101,8 @@
     <lifetime>7200</lifetime>
     <min>20</min>
     <nominal>100</nominal>
-    <quantmax>90</quantmax>
-    <quantmin>25</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>300</restock>
     <usage name="Military" />
 </type>
@@ -113,8 +113,8 @@
     <lifetime>10800</lifetime>
     <min>10</min>
     <nominal>40</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>180</restock>
     <tag name="shelves" />
     <usage name="Military" />
@@ -126,8 +126,8 @@
     <lifetime>10800</lifetime>
     <min>10</min>
     <nominal>40</nominal>
-    <quantmax>50</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>180</restock>
     <tag name="shelves" />
     <usage name="Military" />
@@ -139,8 +139,8 @@
     <lifetime>7200</lifetime>
     <min>40</min>
     <nominal>120</nominal>
-    <quantmax>90</quantmax>
-    <quantmin>40</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Military" />
     <value name="Tier2" />
@@ -154,8 +154,8 @@
     <lifetime>10800</lifetime>
     <min>10</min>
     <nominal>80</nominal>
-    <quantmax>50</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Military" />
@@ -170,8 +170,8 @@
     <lifetime>7200</lifetime>
     <min>50</min>
     <nominal>100</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Farm" />
@@ -186,8 +186,8 @@
     <lifetime>10800</lifetime>
     <min>10</min>
     <nominal>80</nominal>
-    <quantmax>50</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Military" />
@@ -202,8 +202,8 @@
     <lifetime>7200</lifetime>
     <min>40</min>
     <nominal>80</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Farm" />
@@ -221,8 +221,8 @@
     <lifetime>10800</lifetime>
     <min>10</min>
     <nominal>60</nominal>
-    <quantmax>50</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Military" />
@@ -237,8 +237,8 @@
     <lifetime>7200</lifetime>
     <min>50</min>
     <nominal>100</nominal>
-    <quantmax>50</quantmax>
-    <quantmin>25</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Police" />
     <usage name="Town" />
@@ -251,8 +251,8 @@
     <lifetime>7200</lifetime>
     <min>5</min>
     <nominal>20</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Military" />
 </type>
@@ -263,8 +263,8 @@
     <lifetime>7200</lifetime>
     <min>3</min>
     <nominal>15</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Military" />
     <value name="Tier3" />
@@ -495,8 +495,8 @@
     <lifetime>10800</lifetime>
     <min>10</min>
     <nominal>40</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
     <value name="Tier3" />
@@ -508,14 +508,14 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>10800</lifetime>
     <min>5</min>
-    <nominal>40</nominal>
-    <quantmax>90</quantmax>
-    <quantmin>20</quantmin>
+    <nominal>20</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
+    <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
-    <value name="Tier4" />
 </type>
 <type name="Mag_AKM_30Rnd">
     <category name="weapons" />
@@ -523,9 +523,9 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>10800</lifetime>
     <min>20</min>
-    <nominal>80</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>40</quantmin>
+    <nominal>40</nominal>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
     <value name="Tier3" />
@@ -538,8 +538,8 @@
     <lifetime>7200</lifetime>
     <min>1</min>
     <nominal>30</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Farm" />
     <usage name="Hunting" />
@@ -555,8 +555,8 @@
     <lifetime>10800</lifetime>
     <min>10</min>
     <nominal>30</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Police" />
 </type>
@@ -567,8 +567,8 @@
     <lifetime>10800</lifetime>
     <min>30</min>
     <nominal>60</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>8</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <tag name="shelves" />
     <usage name="Police" />
@@ -585,8 +585,8 @@
     <lifetime>7200</lifetime>
     <min>5</min>
     <nominal>30</nominal>
-    <quantmax>70</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <usage name="Military" />
     <value name="Tier2" />
@@ -598,8 +598,8 @@
     <lifetime>10800</lifetime>
     <min>30</min>
     <nominal>60</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
     <value name="Tier1" />
@@ -612,8 +612,8 @@
     <lifetime>7200</lifetime>
     <min>10</min>
     <nominal>60</nominal>
-    <quantmax>90</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <tag name="shelves" />
     <usage name="Police" />
@@ -625,8 +625,8 @@
     <lifetime>10800</lifetime>
     <min>30</min>
     <nominal>60</nominal>
-    <quantmax>70</quantmax>
-    <quantmin>30</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <tag name="shelves" />
     <usage name="Town" />
@@ -642,8 +642,8 @@
     <lifetime>7200</lifetime>
     <min>30</min>
     <nominal>60</nominal>
-    <quantmax>60</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>0</restock>
     <tag name="shelves" />
     <usage name="Town" />
@@ -656,8 +656,8 @@
     <lifetime>10800</lifetime>
     <min>15</min>
     <nominal>120</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
     <value name="Tier1" />
@@ -670,8 +670,8 @@
     <lifetime>10800</lifetime>
     <min>20</min>
     <nominal>120</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>40</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
     <value name="Tier1" />
@@ -685,8 +685,8 @@
     <lifetime>10800</lifetime>
     <min>20</min>
     <nominal>120</nominal>
-    <quantmax>80</quantmax>
-    <quantmin>40</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
     <value name="Tier3" />
@@ -699,8 +699,8 @@
     <lifetime>10800</lifetime>
     <min>5</min>
     <nominal>40</nominal>
-    <quantmax>90</quantmax>
-    <quantmin>20</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
     <value name="Tier4" />
@@ -712,8 +712,8 @@
     <lifetime>10800</lifetime>
     <min>15</min>
     <nominal>100</nominal>
-    <quantmax>100</quantmax>
-    <quantmin>15</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>1800</restock>
     <usage name="Military" />
     <value name="Tier2" />
@@ -726,8 +726,8 @@
     <lifetime>10800</lifetime>
     <min>5</min>
     <nominal>40</nominal>
-    <quantmax>60</quantmax>
-    <quantmin>10</quantmin>
+    <quantmax>-1</quantmax>
+    <quantmin>-1</quantmin>
     <restock>3600</restock>
     <usage name="Military" />
     <value name="Tier4" />
