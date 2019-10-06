@@ -10,7 +10,9 @@ There may well be errors in this early commit. These are NOT the default loot am
 
 ## Installation
 * Download the latest source as zip (or better yet git it to your server).
-* Backup your types.xml - rename to types.xml.bak.
+* Make any modifications you would like to your spawn rates by modifying files within Fractional Types folder.
+* Regenerate your typesorted.xml by running the typesmerge.bat file.
+* Backup your existing types.xml in $DAYZSERVERROOT\mpmissions\dayzOffline.chernarusplus\db - rename to types.xml.bak.
 * Drag in the typesorted.xml to the $DAYZSERVERROOT\mpmissions\dayzOffline.chernarusplus\db folder.
 * Rename this files to types.xml.
 * Stop the server.
