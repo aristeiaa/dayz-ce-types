@@ -1370,10 +1370,10 @@
     <usage name="Military" />
 </type>
 <type name="Compass">
-    <nominal>280</nominal>
+    <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>100</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1384,7 +1384,7 @@
     <usage name="Hunting" />
 </type>
 <type name="PersonalRadio">
-    <nominal>160</nominal>
+    <nominal>80</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>40</min>
@@ -1426,10 +1426,10 @@
     <value name="Tier4" />
 </type>
 <type name="Binoculars">
-    <nominal>240</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>80</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1441,10 +1441,10 @@
     <usage name="Hunting" />
 </type>
 <type name="Megaphone">
-    <nominal>80</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1461,7 +1461,7 @@
     <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1472,10 +1472,10 @@
     <usage name="Prison" />
 </type>
 <type name="Handcuffs">
-    <nominal>80</nominal>
+    <nominal>40</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1725,10 +1725,10 @@
     <usage name="School" />
 </type>
 <type name="OrienteeringCompass">
-    <nominal>200</nominal>
+    <nominal>50</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>60</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
