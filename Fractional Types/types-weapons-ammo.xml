@@ -592,13 +592,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <lifetime>7200</lifetime>
-    <min>5</min>
-    <nominal>30</nominal>
+    <min>25</min>
+    <nominal>50</nominal>
     <quantmax>100</quantmax>
     <quantmin>20</quantmin>
     <restock>0</restock>
     <usage name="Military" />
     <value name="Tier2" />
+    <value name="Tier3" />
 </type>
 <type name="Mag_FNX45_15Rnd">
     <category name="weapons" />

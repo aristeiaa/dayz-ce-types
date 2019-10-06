@@ -80,6 +80,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <value name="Tier2" />
+    <value name="Tier3" />
 </type>
 <type name="CZ75">
     <nominal>40</nominal>
