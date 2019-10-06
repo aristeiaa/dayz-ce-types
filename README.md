@@ -1,2 +1,18 @@
 # dayz-ce-types
 A rework of the Central Economy Types.xml for DayZ SA servers
+
+## Introduction
+After becoming frustrated with trying to edit loot spawns in particular within the types.xml file I created some basic XSL to transform the types.xml file and sort it into like categories and then have split out these categories into seperate XML files which are much more manageable and easy to work with.
+
+I then created a simple script line to add to your server start.bat file which will combine the fractional XML files and put them back into one types.XML - so every time your server loads you can reassemble the types efficiently and bring in any edits you may have made.
+
+There may well be errors in this early commit. These are NOT the default loot amounts but I hope to bring in a more effective rework of the spawn rates in the CE in due course.
+
+## Installation
+* Download the latest source as zip (or better yet git it to your server).
+* Backup your types.xml - rename to types.xml.bak.
+* Drag in the typesorted.xml to the $DAYZSERVERROOT\mpmissions\dayzOffline.chernarusplus\db folder.
+* Rename this files to types.xml.
+* Stop the server.
+* (At your own risk) Wipe the current economy by deleting the contents of $DAYZSERVERROOT\mpmissions\dayzOffline.chernarusplus\storage_1\data\.
+* Start the server.
