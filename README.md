@@ -2,7 +2,17 @@
 A rework of the Central Economy Types.xml for DayZ SA servers
 
 ## Introduction
-After becoming frustrated with trying to edit loot spawns in particular within the types.xml file I created some basic XSL to transform the types.xml file and sort it into like categories and then have split out these categories into seperate XML files which are much more manageable and easy to work with.
+After becoming frustrated with trying to edit loot spawns I wanted to make managing loot much more simple and accessible.
+
+I've used XSL to help sort and categorise loot into files (see Fractional Types folder) so now you can seperately see lists like:
+
+* Weapons (Ammo and Attachments in different lists).
+* Clothing (by military and medical as well).
+* Food.
+* AI.
+* Vehicles.
+
+In total I've seperated the loot into 15 categories by default.
 
 I then created a simple one line script to add to your 'server start.bat' file which combines the fractional XML files and merges them into one types.XML; so every time your server loads you can reassemble the types efficiently and bring in any edits you may have made.
 
