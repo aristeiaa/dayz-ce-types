@@ -18,6 +18,19 @@ I then created a simple one line script to add to your 'server start.bat' file w
 
 NB: These are NOT the default loot amounts but I hope to bring in a more effective rework of the spawn rates in the CE in due course. In the course of this project I've found numerous, apparent errors, in the default loot setup. That's no slight to BIS - managing a system of this complexity is not trivial.
 
+## Statistics
+
+These are the distributions of different loot types for the standard (without mods) loot structure in these files. They are close to default in every category except for weapons at the current time.
+
+### Categories
+![Categories](https://raw.githubusercontent.com/aristeiaa/dayz-ce-types/master/Stats/standard-categories.png)
+
+### Tiers
+![Tiers](https://raw.githubusercontent.com/aristeiaa/dayz-ce-types/master/Stats/standard-tiers.png)
+
+### Usage
+![Usage](https://raw.githubusercontent.com/aristeiaa/dayz-ce-types/master/Stats/standard-usage.png)
+
 ## Installation
 * Download the latest source as zip (or better yet git it to your server).
 * Make any modifications you would like to your spawn rates by modifying files within Fractional Types folder.
