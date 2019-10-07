@@ -689,19 +689,6 @@
     <usage name="Industrial" />
     <usage name="Coast" />
 </type>
-<type name="RaidHammer">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
-    <restock>2200</restock>
-    <min>1</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
-    <tag name="floor" />
-    <usage name="Industrial" />
-</type>
 <type name="HeadlightH7_Box">
     <nominal>320</nominal>
     <lifetime>2700</lifetime>
@@ -729,7 +716,7 @@
     <usage name="Industrial" />
 </type>
 <type name="EpoxyPutty">
-    <nominal>200</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>60</min>
@@ -761,10 +748,10 @@
     <value name="Tier4" />
 </type>
 <type name="LeatherSewingKit">
-    <nominal>400</nominal>
+    <nominal>300</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>160</min>
+    <min>100</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -963,19 +950,6 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
-    <usage name="Industrial" />
-</type>
-<type name="RaidSaw">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
-    <restock>2200</restock>
-    <min>1</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
-    <tag name="floor" />
     <usage name="Industrial" />
 </type>
 <type name="BatteryCharger">
