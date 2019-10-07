@@ -742,10 +742,10 @@
     <usage name="Industrial" />
 </type>
 <type name="Headtorch_Grey">
-    <nominal>480</nominal>
-    <lifetime>14400</lifetime>
+    <nominal>100</nominal>
+    <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>180</min>
+    <min>50</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
