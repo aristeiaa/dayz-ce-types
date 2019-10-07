@@ -1,8 +1,8 @@
 <type name="WE_AR15">
-    <nominal>50</nominal>
+    <nominal>70</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>7</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10,6 +10,7 @@
     <category name="weapons"/>
     <usage name="Hunting"/>
     <usage name="Military"/>
+    <value name="Tier2"/>
     <value name="Tier3"/>
     <value name="Tier4"/>
 </type>
